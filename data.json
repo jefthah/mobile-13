@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Beidou",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Beidou_Card.png/revision/latest?cb=20220725204858"
+    },
+    {
+        "name": "Bennet",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Bennett_Card.png/revision/latest?cb=20220725204904"
+    },
+    {
+        "name": "Amber",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
+    },
+    {
+        "name": "Kaeya",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Kaeya_Card.png/revision/latest?cb=20220725205013"
+    },
+    {
+        "name": "Lisa",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Lisa_Card.png/revision/latest?cb=20220725205045"
+    },
+    {
+        "name": "Diluc",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Diluc_Card.png/revision/latest?cb=20220725204921"
+    },
+    {
+        "name": "Jean",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Jean_Card.png/revision/latest?cb=20220725210053"
+    },
+    {
+        "name": "Barbara",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Barbara_Card.png/revision/latest?cb=20220725204852"
+    },
+    {
+        "name": "Razor",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Razor_Card.png/revision/latest?cb=20220725205138"
+    },
+    {
+        "name": "Venti",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "image_url": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Venti_Card.png/revision/latest?cb=20220725205218"
+    }
+]
